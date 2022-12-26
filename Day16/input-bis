@@ -1,0 +1,100 @@
+UU-> 1 -> XG
+UU-> 1 -> DT
+BB-> 1 -> NS
+BB-> 1 -> HR
+TZ-> 1 -> RI
+TZ-> 1 -> VT
+LY-> 1 -> EE
+LY-> 1 -> RP
+PX-> 2 -> VT
+PX-> 1 -> JQ
+VH-> 1 -> DT
+VH-> 1 -> TA
+HN-> 1 -> KV
+HN-> 1 -> LR
+LR-> 1 -> HR
+LR-> 1 -> HN
+NJ-> 1 -> QF
+NJ-> 1 -> JC
+AM-> 1 -> OJ
+AM-> 1 -> AA
+FM-> 1 -> VT
+FM-> 1 -> RP
+HF-> 1 -> NR
+HF-> 1 -> SU
+WX-> 1 -> CN
+WX-> 1 -> IP
+PE-> 1 -> KV
+PE-> 1 -> RI
+EE-> 1 -> LY
+EE-> 1 -> RI
+CV-> 1 -> KV
+CV-> 1 -> NS
+SF-> 1 -> YN
+SF-> 1 -> SU
+XD-> 1 -> IL
+XD-> 1 -> KV
+XG-> 1 -> LI
+XG-> 1 -> UU
+OL-> 1 -> GG
+OL-> 1 -> SU
+AN-> 1 -> AA
+AN-> 1 -> IX
+GQ-> 1 -> YA
+GQ-> 1 -> KO
+HU-> 2 -> SU
+HU-> 1 -> DT
+OJ-> 1 -> RP
+OJ-> 1 -> AM
+YN-> 1 -> SF
+YN-> 1 -> JQ
+ML-> 1 -> RI
+ML-> 1 -> GG
+UJ-> 1 -> YA
+UJ-> 1 -> NS
+IX-> 1 -> AN
+IX-> 1 -> JQ
+JC-> 1 -> JQ
+JC-> 1 -> NJ
+TA-> 1 -> KV
+TA-> 1 -> VH
+NR-> 1 -> HF
+NR-> 1 -> CN
+YI-> 1 -> QF
+YI-> 1 -> UH
+BN-> 1 -> AA
+BN-> 2 -> CN
+KA-> 1 -> GG
+KA-> 1 -> DT
+IL-> 1 -> GG
+IL-> 1 -> XD
+IP-> 1 -> WX
+IP-> 1 -> VT
+OM-> 1 -> CN
+OM-> 1 -> JQ
+KO-> 1 -> GQ
+KO-> 1 -> HR
+LA-> 1 -> AA
+LA-> 2 -> VT
+IK-> 2 -> CN
+IK-> 1 -> RP
+HG-> 2 -> GG
+HG-> 1 -> RP
+
+AA-> 1 -> AM, AN, BN, LA
+AA-> 2 -> RI
+CN has flow rate=7; tunnels lead to valves YH, EO, WX, NR, OM
+VT has flow rate=5; tunnels lead to valves IP, XZ, TZ, FM, MU
+HR has flow rate=11; tunnels lead to valves BB, KO, LR
+QF has flow rate=17; tunnels lead to valves YI, NJ
+UH has flow rate=25; tunnel leads to valve YI
+RP has flow rate=3; tunnels lead to valves HG, FM, OJ, IK, LY
+GG has flow rate=12; tunnels lead to valves ML, IL, MH, OL, KA
+YA has flow rate=21; tunnels lead to valves UJ, GQ
+LI has flow rate=15; tunnel leads to valve XG
+DT has flow rate=16; tunnels lead to valves UU, HU, KA, VH
+JQ has flow rate=6; tunnels lead to valves IX, JC, PX, YN, OM
+NS has flow rate=23; tunnels lead to valves CV, BB, UJ
+KV has flow rate=13; tunnels lead to valves HN, CV, PE, XD, TA
+SU has flow rate=19; tunnels lead to valves TQ, HF, OL, SF
+RI has flow rate=4; tunnels lead to valves ML, EE, TZ, RJ, PE
